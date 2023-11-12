@@ -1,2 +1,2 @@
 # Techno-Defenders
-This is a tower defense game that I have made in unity
+This is my tower defense game project I made in unity.
